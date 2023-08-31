@@ -1,5 +1,5 @@
 ## Classification Project
 
-### Logistic Regression Model for Affair Classification
+### Decision Tree Model for Titanic Survival Prediction
 
-Deployment URL: http://dghorai.pythonanywhere.com/
+Deployment URL: https://github.com/dghorai/titanic-survival-prediction/tree/main
