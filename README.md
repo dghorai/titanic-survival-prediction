@@ -2,4 +2,4 @@
 
 ### Decision Tree Model for Titanic Survival Prediction
 
-Deployment URL: https://github.com/dghorai/titanic-survival-prediction/tree/main
+Deployment URL: http://dghorai.pythonanywhere.com/
