@@ -3,7 +3,7 @@ import sys
 import pandas as pd
 import numpy as np
 
-from patsy import dmatrices
+# from patsy import dmatrices
 from scipy import stats
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass

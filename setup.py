@@ -17,12 +17,12 @@ def get_requirements(file_path: str) -> List[str]:
 
 
 setup(
-    name='<type project name here>',
+    name='DecisionTreeClassifierProject',
     version='0.0.1',
-    description='<write brief project description here>',
+    description='Build a decision tree classifier to make predictions about the Titanic data set from catboost.datasets',
     author='Debabrata Ghorai, Ph.D.',
     author_email='ghoraideb@gmail.com',
-    url='https://github.com/dghorai83',
+    url='https://github.com/dghorai',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages(),
     long_description=readme()
